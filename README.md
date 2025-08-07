@@ -34,13 +34,13 @@ The Hospital Dashboard provides an interactive and insightful view of hospital p
 ## 📷 Dashboard Snapshots
 
 ### ✅ Home Page
-![Dashboard Overview](./screenshots/home.png)
+![Dashboard Overview](./home.png)
 
 ### ✅ Overview Page
-![Overview](./screenshots/overview.png)
+![Overview](./overview.png)
 
 ### ✅ Patient Trends
-![Patient](./screenshots/patient.png)
+![Patient](./patient.png)
 
 ---
 
